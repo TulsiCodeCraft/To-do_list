@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,4 +48,4 @@ This project is a feature-rich To-Do List application built using ReactJS and Re
 
 You can now interact with the application, add tasks, prioritize them, and manage your to-do list seamlessly.
 
->>>>>>> e31c12f45b7807ca055f686363f954d50c7f3e2e
+
