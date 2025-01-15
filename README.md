@@ -47,5 +47,8 @@ This project is a feature-rich To-Do List application built using ReactJS and Re
    Open your browser and navigate to `http://localhost:3000`.
 
 You can now interact with the application, add tasks, prioritize them, and manage your to-do list seamlessly.
+![laptop](https://github.com/user-attachments/assets/36fec6f7-ef13-4841-8572-0185ba7b2a0f)
+![Mobile](https://github.com/user-attachments/assets/f8893013-0428-417a-9681-f9a3c757648d)
+![Tablet](https://github.com/user-attachments/assets/7262f889-f98a-4388-80f0-7367d4f896e8)
 
 
