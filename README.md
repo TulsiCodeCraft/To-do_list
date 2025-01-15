@@ -20,7 +20,7 @@ This project is a feature-rich To-Do List application built using ReactJS and Re
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd to-do-list-application
+   cd To-do List
    ```
 
 3. **Install Dependencies**:
@@ -30,7 +30,7 @@ This project is a feature-rich To-Do List application built using ReactJS and Re
 
 4. **Start the Development Server**:
    ```bash
-   npm start
+   npm run dev
    ```
 
 5. **Access the Application**:
